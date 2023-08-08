@@ -1,2 +1,2 @@
-.lst
-.ipynb_checkpoints
+*.lst
+.ipynb_checkpoints/
